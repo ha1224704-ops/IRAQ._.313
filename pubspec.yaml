@@ -1,5 +1,5 @@
-name: iraq_engine
-description: IRAQ Engine - محرك العاب عراقي - صنع حيدر - واحد عراق
+name: iraq_emulator
+description: IRAQ Emulator - محاكي واحد عراق - صنع حيدر
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -9,9 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
-  shared_preferences: ^2.2.2
-  flame: ^1.16.0
 
 flutter:
   uses-material-design: true
