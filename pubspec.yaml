@@ -1,5 +1,5 @@
-name: iraq_emulator
-description: IRAQ Emulator - محاكي واحد عراق - صنع حيدر
+name: iraq_engine
+description: IRAQ Engine - صنع حيدر
 publish_to: 'none'
 version: 1.0.0+1
 
